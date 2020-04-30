@@ -1,0 +1,10 @@
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp2.2\MongoDBConsoleCORE.deps.json
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp2.2\MongoDBConsoleCORE.runtimeconfig.json
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp2.2\MongoDBConsoleCORE.runtimeconfig.dev.json
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp2.2\MongoDBConsoleCORE.dll
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp2.2\MongoDBConsoleCORE.pdb
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp2.2\MongoDBConsoleCORE.csprojAssemblyReference.cache
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp2.2\MongoDBConsoleCORE.AssemblyInfoInputs.cache
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp2.2\MongoDBConsoleCORE.AssemblyInfo.cs
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp2.2\MongoDBConsoleCORE.dll
+c:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp2.2\MongoDBConsoleCORE.pdb

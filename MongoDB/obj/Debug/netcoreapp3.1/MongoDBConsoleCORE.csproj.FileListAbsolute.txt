@@ -1,0 +1,16 @@
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDBConsoleCORE.exe
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDBConsoleCORE.deps.json
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDBConsoleCORE.runtimeconfig.json
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDBConsoleCORE.runtimeconfig.dev.json
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDBConsoleCORE.dll
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDBConsoleCORE.pdb
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp3.1\MongoDBConsoleCORE.csprojAssemblyReference.cache
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp3.1\MongoDBConsoleCORE.AssemblyInfoInputs.cache
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp3.1\MongoDBConsoleCORE.AssemblyInfo.cs
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp3.1\MongoDBConsoleCORE.csproj.CopyComplete
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp3.1\MongoDBConsoleCORE.dll
+C:\Users\ahmasiri\source\repos\MongoDB\MongoDBConsoleCORE\obj\Debug\netcoreapp3.1\MongoDBConsoleCORE.pdb
